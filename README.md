@@ -8,7 +8,7 @@ cd ./Laravel-Api
 ```
 run command 
 ```bash
-docker --build -d .
+docker compose --build -d 
 ```
 make sure it is running
 ```bash
